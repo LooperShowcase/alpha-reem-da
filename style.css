@@ -1,0 +1,39 @@
+p {
+  color: rgb(123, 138, 233);
+}
+#r48 {
+  background-color: rgb(114, 100, 215);
+}
+#r22 {
+  background-color: rgb(188, 123, 189);
+}
+table,
+tr,
+td
+{
+border:5px solid rgb(68, 115, 235)
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+#navbar1,#navbar2,#navbar3,#navbar4 
+  {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
